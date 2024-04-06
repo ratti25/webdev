@@ -1,0 +1,10 @@
+input:required{
+    border: 3px solid red;
+}
+input[tupe= 'password'] {
+        border: 1px solid blue;
+}
+.i{
+    width: 100px;
+    
+}
